@@ -1,0 +1,7 @@
+Spot Instance Manager
+---------------------
+
+All the necessary library jars are located in the lib folder. 
+They are the the jars that come with the AWS Java API.
+
+
